@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React (Typescript)**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Engineering high-performance web applications, building scalable front-ends with React (and TypeScript), optimizing user experience, and tackling complex architectural challenges.**
 
 - 📫 How to reach me **dkalabwe@gmail.com**
 
