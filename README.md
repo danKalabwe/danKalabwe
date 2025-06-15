@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan Kalabwe</h1>
 <h3 align="center">Programming isn't about what you know; it's about what you can figure out.</h3>
 
-- 🌱 I’m currently learning **React (Typescript)**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Engineering high-performance web applications, building scalable front-ends with React (and TypeScript), optimizing user experience, and tackling complex architectural challenges.**
+- 💬 Ask me about **React (Typescript)**
 
 - 📫 How to reach me **dkalabwe@gmail.com**
 
