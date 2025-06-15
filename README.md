@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan Kalabwe</h1>
-<h3 align="center">A passionate frontend developer from Tanzania</h3>
+<h3 align="center">Programming isn't about what you know; it's about what you can figure out.</h3>
 
 - 🌱 I’m currently learning **React (Typescript)**
 
